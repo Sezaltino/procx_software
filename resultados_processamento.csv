@@ -1,0 +1,502 @@
+﻿deal_id,action,status_code,sucesso,resposta
+127577,Pause,200,True,"{""updatedTasks"":[""144269"",""144265""],""errors"":[{""taskId"":""144267"",""error"":""Group ID or action not found""}]}"
+42817,Pause,200,True,"{""updatedTasks"":[""98989"",""98987"",""98991""],""errors"":[{""taskId"":""103991"",""error"":""Group ID or action not found""}]}"
+73343,Pause,0,False,"Erro: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=10)"
+154937,Pause,200,True,"{""updatedTasks"":[""159945"",""159931""],""errors"":[{""taskId"":""159933"",""error"":""Group ID or action not found""}]}"
+130179,Pause,200,True,"{""updatedTasks"":[""145601"",""145539""],""errors"":[{""taskId"":""145541"",""error"":""Group ID or action not found""}]}"
+154997,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+123671,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+127265,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+132901,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+35145,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+122897,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+92503,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+134561,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+58905,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+127479,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+144397,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+145253,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+164697,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+140279,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+155317,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+145729,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+151737,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+147847,Pause,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+118175,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+94531,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+91813,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+173729,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+45599,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+173505,Cancel,200,True,"{""updatedTasks"":[""171463"",""171459""],""errors"":[{""taskId"":""171461"",""error"":""Group ID or action not found""}]}"
+141529,Cancel,200,True,"{""updatedTasks"":[""153201"",""153197""],""errors"":[{""taskId"":""153199"",""error"":""Group ID or action not found""},{""taskId"":""160117"",""error"":""Group ID or action not found""}]}"
+128603,Cancel,200,True,"{""updatedTasks"":[""144547"",""144543""],""errors"":[{""taskId"":""144545"",""error"":""Group ID or action not found""}]}"
+145515,Cancel,200,True,"{""updatedTasks"":[""154583"",""154579""],""errors"":[{""taskId"":""154581"",""error"":""Group ID or action not found""}]}"
+115449,Cancel,200,True,"{""updatedTasks"":[""137787"",""137789"",""137785"",""160181""],""errors"":[{""taskId"":""158953"",""error"":""Group ID or action not found""}]}"
+119611,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+125125,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+141409,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+157441,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+70133,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+47129,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+62907,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+122413,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+75671,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+114413,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+148929,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+136357,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+146839,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+33265,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+72329,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+126133,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+152269,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+118155,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+98125,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+108127,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+104559,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+101173,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+72965,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+166453,Cancel,200,True,"{""updatedTasks"":[""166173"",""166169""],""errors"":[{""taskId"":""166171"",""error"":""Group ID or action not found""}]}"
+64689,Cancel,200,True,"{""updatedTasks"":[""111357"",""113693"",""111355""],""errors"":[{""taskId"":""112643"",""error"":""Group ID or action not found""},{""taskId"":""113665"",""error"":""Group ID or action not found""}]}"
+54667,Cancel,200,True,"{""updatedTasks"":[""104799"",""104801"",""104783""],""errors"":[{""taskId"":""104785"",""error"":""Group ID or action not found""}]}"
+119607,Cancel,0,False,"Erro: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=10)"
+152243,Cancel,200,True,"{""updatedTasks"":[""157891"",""157887""],""errors"":[{""taskId"":""157889"",""error"":""Group ID or action not found""}]}"
+87531,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+162569,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+84229,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+111281,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+116861,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+133579,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+173497,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "
+116643,Cancel,429,False,"<!DOCTYPE html>
+<html lang=""en"">
+    <head>
+        <meta charset=""utf-8"">
+        <meta name=""viewport"" content=""width=device-width, initial-scale=1"">
+
+        <title>Too Many Requests</title>
+
+     "

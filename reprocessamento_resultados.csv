@@ -1,0 +1,57 @@
+﻿deal_id,action,status_code,sucesso,resposta,tentativas
+73343,Pause,200,True,"{""updatedTasks"":[""116027"",""116021"",""116023"",""116025"",""116029"",""115973""],""errors"":[{""taskId"":""115975"",""error"":""Group ID or action not found""},{""taskId"":""160489"",""error"":""Group ID or action not found""}]",1
+154997,Pause,200,True,"{""updatedTasks"":[""159889"",""159887"",""159849""],""errors"":[{""taskId"":""159851"",""error"":""Group ID or action not found""}]}",1
+123671,Pause,200,True,"{""updatedTasks"":[""149465"",""141965""],""errors"":[{""taskId"":""141967"",""error"":""Group ID or action not found""}]}",1
+127265,Pause,200,True,"{""updatedTasks"":[""149763""],""errors"":[]}",1
+132901,Pause,200,True,"{""updatedTasks"":[""149433"",""149431""],""errors"":[]}",1
+35145,Pause,200,True,"{""updatedTasks"":[""94127"",""94123""],""errors"":[{""taskId"":""94125"",""error"":""Group ID or action not found""}]}",3
+122897,Pause,200,True,"{""updatedTasks"":[""141891"",""141889"",""141171""],""errors"":[{""taskId"":""141173"",""error"":""Group ID or action not found""}]}",1
+92503,Pause,200,True,"{""updatedTasks"":[""127419"",""127421"",""125843""],""errors"":[{""taskId"":""125845"",""error"":""Group ID or action not found""}]}",1
+134561,Pause,200,True,"{""updatedTasks"":[""151011"",""148243"",""148245"",""148241"",""162641"",""172497""],""errors"":[{""taskId"":""164437"",""error"":""Group ID or action not found""}]}",1
+58905,Pause,200,True,"{""updatedTasks"":[""108977"",""108975"",""108979"",""107531""],""errors"":[{""taskId"":""136777"",""error"":""Group ID or action not found""},{""taskId"":""107533"",""error"":""Group ID or action not found""}]}",1
+127479,Pause,200,True,"{""updatedTasks"":[""143973"",""143971""],""errors"":[{""taskId"":""143765"",""error"":""Group ID or action not found""},{""taskId"":""145905"",""error"":""Group ID or action not found""},{""taskId"":""154335"",""error"":""Group ID",3
+144397,Pause,200,True,"{""updatedTasks"":[""153173"",""153177"",""153175""],""errors"":[]}",1
+145253,Pause,200,True,"{""updatedTasks"":[""154279"",""154275""],""errors"":[{""taskId"":""154277"",""error"":""Group ID or action not found""}]}",1
+164697,Pause,200,True,"{""updatedTasks"":[""165273"",""165269""],""errors"":[{""taskId"":""165271"",""error"":""Group ID or action not found""}]}",1
+140279,Pause,200,True,"{""updatedTasks"":[""152045""],""errors"":[]}",1
+155317,Pause,200,True,"{""updatedTasks"":[""161165"",""161161""],""errors"":[{""taskId"":""161163"",""error"":""Group ID or action not found""}]}",3
+145729,Pause,200,True,"{""updatedTasks"":[""154805"",""154797""],""errors"":[]}",1
+151737,Pause,200,True,"{""updatedTasks"":[""159361"",""159367"",""159365"",""159363"",""158239""],""errors"":[{""taskId"":""158241"",""error"":""Group ID or action not found""}]}",1
+147847,Pause,200,True,"{""updatedTasks"":[""156325""],""errors"":[{""taskId"":""155601"",""error"":""Group ID or action not found""}]}",1
+118175,Cancel,200,True,"{""updatedTasks"":[""140875"",""140877"",""140873""],""errors"":[]}",1
+94531,Cancel,200,True,"{""updatedTasks"":[""127405"",""127403"",""127389""],""errors"":[{""taskId"":""127391"",""error"":""Group ID or action not found""}]}",3
+91813,Cancel,200,True,"{""updatedTasks"":[""125543"",""125541""],""errors"":[]}",1
+173729,Cancel,200,True,"{""updatedTasks"":[""171999"",""172003"",""171997""],""errors"":[{""taskId"":""172001"",""error"":""Group ID or action not found""}]}",1
+45599,Cancel,200,True,"{""updatedTasks"":[""100757"",""100751"",""100753"",""100755"",""100759"",""100717""],""errors"":[{""taskId"":""100719"",""error"":""Group ID or action not found""}]}",1
+119611,Cancel,200,True,"{""updatedTasks"":[""140621""],""errors"":[]}",1
+125125,Cancel,200,True,"{""updatedTasks"":[""142471"",""142469""],""errors"":[]}",3
+141409,Cancel,200,True,"{""updatedTasks"":[""151301"",""151297""],""errors"":[{""taskId"":""151299"",""error"":""Group ID or action not found""}]}",1
+157441,Cancel,200,True,"{""updatedTasks"":[""162369"",""160895"",""164167"",""160891"",""160893"",""160669""],""errors"":[{""taskId"":""160671"",""error"":""Group ID or action not found""}]}",1
+70133,Cancel,200,True,"{""updatedTasks"":[""114231"",""114229""],""errors"":[]}",1
+47129,Cancel,200,True,"{""updatedTasks"":[""101083"",""101085"",""100963""],""errors"":[{""taskId"":""109911"",""error"":""Group ID or action not found""},{""taskId"":""100965"",""error"":""Group ID or action not found""}]}",1
+62907,Cancel,200,True,"{""updatedTasks"":[""109435"",""109401""],""errors"":[{""taskId"":""109403"",""error"":""Group ID or action not found""}]}",3
+122413,Cancel,200,True,"{""updatedTasks"":[""141237""],""errors"":[{""taskId"":""143961"",""error"":""Group ID or action not found""},{""taskId"":""149471"",""error"":""Group ID or action not found""}]}",1
+75671,Cancel,200,True,"{""updatedTasks"":[""117475"",""117473""],""errors"":[]}",1
+114413,Cancel,200,True,"{""updatedTasks"":[""136599"",""136601"",""136597""],""errors"":[]}",1
+148929,Cancel,200,True,"{""updatedTasks"":[""157341"",""157345"",""157337"",""157339""],""errors"":[{""taskId"":""157343"",""error"":""Group ID or action not found""}]}",1
+136357,Cancel,200,True,"{""updatedTasks"":[""149175"",""148839""],""errors"":[{""taskId"":""148841"",""error"":""Group ID or action not found""}]}",3
+146839,Cancel,200,True,"{""updatedTasks"":[""156329"",""156333"",""156327""],""errors"":[{""taskId"":""157177"",""error"":""Group ID or action not found""},{""taskId"":""156331"",""error"":""Group ID or action not found""},{""taskId"":""157273"",""error"":",1
+33265,Cancel,200,True,"{""updatedTasks"":[""90247"",""90253"",""90249""],""errors"":[{""taskId"":""90251"",""error"":""Group ID or action not found""}]}",1
+72329,Cancel,200,True,"{""updatedTasks"":[""115607"",""115611"",""115603"",""115609"",""115605""],""errors"":[{""taskId"":""119677"",""error"":""Group ID or action not found""},{""taskId"":""119679"",""error"":""Group ID or action not found""},{""taskId""",1
+126133,Cancel,200,True,"{""updatedTasks"":[""144023"",""144021""],""errors"":[]}",1
+152269,Cancel,200,True,"{""updatedTasks"":[""159727"",""159723""],""errors"":[{""taskId"":""159725"",""error"":""Group ID or action not found""}]}",3
+118155,Cancel,200,True,"{""updatedTasks"":[""138969"",""138971"",""138967""],""errors"":[]}",1
+98125,Cancel,200,True,"{""updatedTasks"":[""130465"",""130463"",""130449""],""errors"":[{""taskId"":""130451"",""error"":""Group ID or action not found""}]}",1
+108127,Cancel,200,True,"{""updatedTasks"":[""133293"",""133289"",""133287"",""133291"",""133261""],""errors"":[{""taskId"":""133263"",""error"":""Group ID or action not found""}]}",1
+104559,Cancel,200,True,"{""updatedTasks"":[""152681"",""132005""],""errors"":[{""taskId"":""132007"",""error"":""Group ID or action not found""}]}",1
+101173,Cancel,200,True,"{""updatedTasks"":[""129865""],""errors"":[]}",3
+72965,Cancel,200,True,"{""updatedTasks"":[""116313"",""116311""],""errors"":[]}",1
+119607,Cancel,0,False,"Erro após 3 tentativas: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=15)",3
+87531,Cancel,200,True,"{""updatedTasks"":[""123413"",""123411""],""errors"":[]}",1
+162569,Cancel,200,True,"{""updatedTasks"":[""166741"",""166745"",""166739""],""errors"":[{""taskId"":""166743"",""error"":""Group ID or action not found""}]}",1
+84229,Cancel,200,True,"{""updatedTasks"":[""121761"",""121759""],""errors"":[]}",1
+111281,Cancel,200,True,"{""updatedTasks"":[""135725"",""135727"",""135723""],""errors"":[]}",1
+116861,Cancel,0,False,"Erro após 3 tentativas: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=15)",3
+133579,Cancel,0,False,"Erro após 3 tentativas: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=15)",3
+173497,Cancel,200,True,"{""updatedTasks"":[""171439"",""171435""],""errors"":[{""taskId"":""171437"",""error"":""Group ID or action not found""}]}",1
+116643,Cancel,0,False,"Erro após 3 tentativas: HTTPSConnectionPool(host='bitrix.prime2b.digital', port=443): Read timed out. (read timeout=15)",3

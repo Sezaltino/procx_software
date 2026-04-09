@@ -1,0 +1,84 @@
+﻿deal_id,deal_titulo,deal_etapa,tarefa_id,tarefa_titulo,grupo_id,data_criacao,status
+35145,25/11/2025 - Calhas Figueiredo,C1:4,94127,Execução de Serviço | Renovação Site - Calhas Figueiredo,513,2024-12-30T15:33:28-03:00,5
+42817,20/12/2025 - Cardan Ribeirão,C1:4,98991,Execução de Serviço | Renovação Site - Cardan Ribeirão,513,2025-02-04T16:48:31-03:00,5
+58905,20/11/2025 - Toldos Modernos e Calhas,C1:4,108979,Execução de Serviço | Renovação Site - Toldos Modernos e Calhas,513,2025-03-26T12:30:18-03:00,5
+73343,25/11/2025 - Wagner Vieira Loucuras de Amor,C1:4,116029,Execução de Serviço | Site - Wagner Vieira Loucuras de Amor,513,2025-05-07T22:24:36-03:00,5
+92503,25/11/2025 - Nova Era Troca de Óleo,C1:4,127421,Execução de Serviço | Renovação Site - Nova Era Troca de Óleo,513,2025-07-01T16:46:23-03:00,5
+122897,25/11/2025 - Líder Marcenaria - Móveis Planejados,C1:4,141889,Execução de Serviço | Renovação Site - Líder Marcenaria - Móveis Planejados,513,2025-08-25T18:06:53-03:00,5
+123671,20/12/2025 - Real Gesso - Loja de Gesso em Uberaba,C1:4,149465,Execução de Serviço | Renovação Site - Real Gesso - Loja de Gesso em Uberaba,513,2025-09-23T16:57:22-03:00,5
+127265,15/12/2025 - Select Bens,C1:4,149763,Execução de Serviço | Gestão de Conteúdo - Select Bens,523,2025-09-24T17:29:19-03:00,5
+127479,15/12/2025 - Select Bens,C1:4,143973,Execução de Serviço | Landing Page - Tráfego Pago - Select Bens,519,2025-09-01T17:45:41-03:00,5
+127577,10/12/2025 - Liliana das Chagas Ferreira,C1:4,144269,Execução de Serviço | Landing Page - Tráfego Pago - Liliana das Chagas Ferreira,519,2025-09-02T16:00:32-03:00,5
+130179,20/12/2025 - SJ Embalagem e Descartáveis,C1:4,145601,Execução de Serviço | Site - SJ Embalagem e Descartáveis,513,2025-09-08T17:20:50-03:00,5
+132901,15/12/2025 - Na Companhia dos Bichos,C1:4,149431,Execução de Serviço | Site - Na Companhia dos Bichos,513,2025-09-23T15:57:32-03:00,5
+134561,25/11/2025 - Atacadão das Madeiras,C1:4,148241,Execução de Serviço | Redes Sociais - Atacadão das Madeiras,523,2025-09-18T16:39:08-03:00,5
+134561,25/11/2025 - Atacadão das Madeiras,C1:4,148243,Execução de Serviço | Landing Page - Tráfego Pago - Atacadão das Madeiras,519,2025-09-18T16:39:09-03:00,5
+140279,25/11/2025 - Master Mirage Vidros e Esquadrias,C1:4,152045,Execução de Serviço | Site - Master Mirage Vidros e Esquadrias,513,2025-10-03T09:38:08-03:00,5
+144397,25/11/2025 - Marmoraria Pessoni,C1:4,153175,Execução de Serviço | Renovação Site - Marmoraria Pessoni,513,2025-10-08T17:09:40-03:00,5
+145253,25/11/2025 - Maria do Socorro Roldão de Oliveira,C1:4,154279,Execução de Serviço | Landing Page - Tráfego Pago - Maria do Socorro Roldão de Oliveira,519,2025-10-13T18:06:13-03:00,5
+145729,25/11/2025 - Spider Redes de Proteção,C1:4,154805,Execução de Serviço | Site - Spider Redes de Proteção,513,2025-10-15T16:32:16-03:00,5
+147847,25/11/2025 - Garagem Rodas Sorocaba,C1:4,156325,Execução de Serviço | Renovação Site - Garagem Rodas Sorocaba,513,2025-10-21T09:25:49-03:00,5
+151737,20/12/2025 - A Cor & Forma Decoração,C1:4,159365,Execução de Serviço | Renovação Site - A Cor & Forma Decoração,513,2025-10-31T16:52:52-03:00,5
+154937,25/11/2025 - Zala & Santos Sucatas,C1:4,159945,Execução de Serviço | Site - Zala & Santos Sucatas,513,2025-11-03T17:09:54-03:00,5
+154997,20/12/2025 - Melo Tambores,C1:4,159887,Execução de Serviço | Site - Melo Tambores,513,2025-11-03T16:35:08-03:00,5
+155317,10/12/2025 - Wesley Sachuk Pereira,C1:4,161165,Execução de Serviço | Landing Page - Tráfego Pago - Wesley Sachuk Pereira,519,2025-11-10T11:57:07-03:00,2
+164697,20/12/2025 - JG Mecânica Diesel,C1:4,165273,Execução de Serviço | Site - JG Mecânica Diesel,513,2025-11-26T17:08:04-03:00,5
+33265,JF PALETES,C1:LOSE,90253,Execução de Serviço | Renovação Site - JF PALETES,513,2024-12-03T16:22:23-03:00,5
+45599,Studio Seniria Rodrigues,C1:LOSE,100759,Execução de Serviço | Site - Studio Seniria Rodrigues,513,2025-02-14T15:31:15-03:00,5
+47129,HF Gesso,C1:LOSE,101085,Execução de Serviço | Site - HF Gesso,513,2025-02-17T17:47:34-03:00,5
+54667,Independência Gás e Água,C1:LOSE,104801,Execução de Serviço | Site - Independência Gás e Água,513,2025-03-05T15:27:43-03:00,5
+62907,Alex Bento Estruturas Metálicas,C1:LOSE,109435,Execução de Serviço | Site - Alex Bento Estruturas Metálicas,513,2025-03-28T13:36:43-03:00,5
+64689,Anne Skin,C1:LOSE,111357,Execução de Serviço | Landing Page - Tráfego Pago - Anne Skin,519,2025-04-07T16:39:52-03:00,5
+70133,Burnet_Tur,C1:LOSE,114231,Execução de Serviço | Landing Page - Tráfego Pago - Burnet_Tur,519,2025-04-28T09:25:51-03:00,5
+72329,Prema Buffet,C1:LOSE,115607,Execução de Serviço | Landing Page Sites - Prema Buffet,519,2025-05-05T17:59:29-03:00,5
+72329,Prema Buffet,C1:LOSE,115611,Execução de Serviço | Landing Page - Tráfego Pago - Prema Buffet,519,2025-05-05T17:59:30-03:00,5
+72965,Prema Buffet,C1:LOSE,116313,Execução de Serviço | Landing Page - Tráfego Pago - Prema Buffet,519,2025-05-09T09:13:30-03:00,5
+75671,BaratoPaka Veículos ,C1:LOSE,117475,Execução de Serviço | Landing Page - Tráfego Pago - BaratoPaka Veículos,519,2025-05-15T17:12:39-03:00,5
+84229,Vila Kids ,C1:LOSE,121761,Execução de Serviço | Landing Page - Tráfego Pago - Vila Kids,519,2025-06-06T16:16:10-03:00,5
+91813,RS Soldas Especiais,C1:LOSE,125543,Execução de Serviço | Landing Page Sites - RS Soldas Especiais,519,2025-06-24T16:28:35-03:00,5
+94531,Atlaas Móveis Planejados,C1:LOSE,127403,Execução de Serviço | Renovação Site - Atlaas Móveis Planejados,513,2025-07-01T16:17:38-03:00,5
+98125,Nutribeef Agropecuária,C1:LOSE,130465,Execução de Serviço | Landing Page Sites - Nutribeef Agropecuária,519,2025-07-15T09:01:20-03:00,5
+104559,Auto Mecânica Ribeiro,C1:LOSE,152681,Execução de Serviço | Renovação Site - Auto Mecânica Ribeiro,513,2025-10-06T17:36:27-03:00,5
+108127,A.L.W Portões Eletrônicos ,C1:LOSE,133291,Execução de Serviço | Site - A.L.W Portões Eletrônicos,513,2025-07-25T15:43:29-03:00,5
+111281,Lymary Store Jeans,C1:LOSE,135723,Execução de Serviço | Redes Sociais - Lymary Store Jeans,523,2025-08-01T15:31:32-03:00,5
+111281,Lymary Store Jeans,C1:LOSE,135725,Execução de Serviço | Landing Page - Tráfego Pago - Lymary Store Jeans,519,2025-08-01T15:31:33-03:00,5
+114413,E-Motos.Net Ltda,C1:LOSE,136597,Execução de Serviço | Redes Sociais - E-Motos.Net Ltda,523,2025-08-06T08:39:58-03:00,5
+114413,E-Motos.Net Ltda,C1:LOSE,136599,Execução de Serviço | Landing Page - Tráfego Pago - E-Motos.Net Ltda,519,2025-08-06T08:40:01-03:00,5
+115449,Doces Zezinho,C1:LOSE,137785,Execução de Serviço | Redes Sociais - Doces Zezinho,523,2025-08-11T11:36:11-03:00,5
+115449,Doces Zezinho,C1:LOSE,137787,Execução de Serviço | Landing Page - Tráfego Pago - Doces Zezinho,519,2025-08-11T11:36:12-03:00,5
+118155,Cervejaria Faleiros,C1:LOSE,138967,Execução de Serviço | Redes Sociais - Cervejaria Faleiros,523,2025-08-14T16:38:04-03:00,5
+118155,Cervejaria Faleiros,C1:LOSE,138969,Execução de Serviço | Landing Page - Tráfego Pago - Cervejaria Faleiros,519,2025-08-14T16:38:05-03:00,5
+119607,Broeder & Nho,C1:LOSE,140619,Execução de Serviço | Landing Page - Tráfego Pago - Broeder & Nho,519,2025-08-21T14:04:54-03:00,5
+119611,Broeder & Nho,C1:LOSE,140621,Execução de Serviço | Gestão de Conteúdo - Broeder & Nho,523,2025-08-21T14:06:50-03:00,5
+122413,Jhonatan Ribeiro ,C1:LOSE,141237,Execução de Serviço | Gestão de Conteúdo - Jhonatan Ribeiro,523,2025-08-22T16:37:49-03:00,5
+125125,Gusto Boost,C1:LOSE,142471,Execução de Serviço | Landing Page - Tráfego Pago - Gusto Boost,519,2025-08-27T16:01:07-03:00,5
+126133,Conectom,C1:LOSE,144023,Execução de Serviço | Landing Page - Tráfego Pago - Conectom,519,2025-09-01T18:10:37-03:00,5
+128603,Ar Telecomunicações,C1:LOSE,144547,Execução de Serviço | Landing Page - Tráfego Pago - Ar Telecomunicações,519,2025-09-03T17:42:07-03:00,5
+133579,Dr Neto,C1:LOSE,148235,Execução de Serviço | Redes Sociais - Dr Neto,523,2025-09-18T16:33:59-03:00,5
+133579,Dr Neto,C1:LOSE,148237,Execução de Serviço | Landing Page - Tráfego Pago - Dr Neto,519,2025-09-18T16:34:00-03:00,5
+136357,GT Paletes,C1:LOSE,149175,Execução de Serviço | Site - GT Paletes,513,2025-09-22T18:02:51-03:00,5
+141409,Luzia Ap Andrade da Costa,C1:LOSE,151301,Execução de Serviço | Landing Page - Tráfego Pago - Luzia Ap Andrade da Costa,519,2025-10-01T09:09:03-03:00,5
+141529,D' Fattori Esfirraria e Pizzaria,C1:LOSE,153201,Execução de Serviço | Landing Page - Tráfego Pago - D' Fattori Esfirraria e Pizzaria,519,2025-10-08T17:33:06-03:00,5
+145515,Evoe Makeup,C1:LOSE,154583,Execução de Serviço | Landing Page - Tráfego Pago - Evoe Makeup,519,2025-10-14T17:39:47-03:00,5
+146839,A Casa do Barão Festas e Eventos,C1:LOSE,156327,Execução de Serviço | Redes Sociais - A Casa do Barão Festas e Eventos,523,2025-10-21T09:40:15-03:00,5
+146839,A Casa do Barão Festas e Eventos,C1:LOSE,156329,Execução de Serviço | Landing Page - Tráfego Pago - A Casa do Barão Festas e Eventos,519,2025-10-21T09:40:16-03:00,5
+148929,Lo Scopo,C1:LOSE,157339,Execução de Serviço | Redes Sociais - Lo Scopo,523,2025-10-24T15:24:16-03:00,5
+148929,Lo Scopo,C1:LOSE,157341,Execução de Serviço | Landing Page - Tráfego Pago - Lo Scopo,519,2025-10-24T15:24:16-03:00,5
+152269,Tubarão Ferramentas,C1:LOSE,159727,Execução de Serviço | Landing Page - Tráfego Pago - Tubarão Ferramentas,519,2025-11-03T13:09:49-03:00,5
+157441,Pulveriza Drones,C1:LOSE,160895,Execução de Serviço | Landing Page Sites - Pulveriza Drones,519,2025-11-07T16:28:19-03:00,5
+162569,Lilian Fantato,C1:LOSE,166739,Execução de Serviço | Redes Sociais - Lilian Fantato,523,2025-12-01T18:22:32-03:00,5
+162569,Lilian Fantato,C1:LOSE,166741,Execução de Serviço | Landing Page - Tráfego Pago - Lilian Fantato,519,2025-12-01T18:22:33-03:00,5
+166453,Tocantins Brasil Vistorias Cauterales,C1:LOSE,166173,Execução de Serviço | Landing Page - Tráfego Pago - Tocantins Brasil Vistorias Cauterales,519,2025-12-01T10:29:08-03:00,5
+173729,Grupo Barcellos,C1:LOSE,171997,Execução de Serviço | Redes Sociais - Grupo Barcellos,523,2025-12-22T15:55:22-03:00,5
+173729,Grupo Barcellos,C1:LOSE,171999,Execução de Serviço | Landing Page - Tráfego Pago - Grupo Barcellos,519,2025-12-22T15:55:23-03:00,5
+101173,Ótica Santa Maria,C1:LOSE,129865,Execução de Serviço | Landing Page Sites - Ótica Santa Maria,519,2025-07-11T15:39:52-03:00,5
+173497,Óticas Bamboo Brasil,C1:LOSE,171439,Execução de Serviço | Landing Page - Tráfego Pago - Óticas Bamboo Brasil,519,2025-12-22T09:44:26-03:00,5
+173505,Ótica Stephanie,C1:LOSE,171463,Execução de Serviço | Landing Page - Tráfego Pago - Ótica Stephanie,519,2025-12-22T10:00:40-03:00,5
+87531,LIMAS MOVIMENTO PILATES CLASSICO,C1:LOSE,123413,Execução de Serviço | Landing Page - Tráfego Pago - LIMAS MOVIMENTO PILATES CLASSICO,519,2025-06-13T15:33:39-03:00,5
+116643,VelControle ,C1:LOSE,140503,Execução de Serviço | Redes Sociais - VelControle,523,2025-08-21T09:31:55-03:00,5
+116643,VelControle ,C1:LOSE,140505,Execução de Serviço | Landing Page - Tráfego Pago - VelControle,519,2025-08-21T09:31:56-03:00,5
+116861,Pedrão Tacógrafos,C1:LOSE,140511,Execução de Serviço | Redes Sociais - Pedrão Tacógrafos,523,2025-08-21T09:34:34-03:00,5
+116861,Pedrão Tacógrafos,C1:LOSE,140513,Execução de Serviço | Landing Page - Tráfego Pago - Pedrão Tacógrafos,519,2025-08-21T09:34:35-03:00,5
+118175,G Vel Diesel & Transportes ,C1:LOSE,140873,Execução de Serviço | Redes Sociais - G Vel Diesel & Transportes,523,2025-08-21T18:01:22-03:00,5
+118175,G Vel Diesel & Transportes ,C1:LOSE,140875,Execução de Serviço | Landing Page - Tráfego Pago - G Vel Diesel & Transportes,519,2025-08-21T18:01:24-03:00,5
+152243,Jaqueline Melo Tarapfit,C1:LOSE,157891,Execução de Serviço | Landing Page - Tráfego Pago - Jaqueline Melo Tarapfit,519,2025-10-27T16:25:54-03:00,5
