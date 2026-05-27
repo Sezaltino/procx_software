@@ -1,0 +1,54 @@
+name: Build Windows Executable
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Build executable
+      run: |
+        pyinstaller --onefile --windowed --name "Comparador_Planilhas" --hidden-import "ttkbootstrap" --hidden-import "pandas" --hidden-import "rapidfuzz" --hidden-import "unidecode" --hidden-import "openpyxl" Main.py
+
+    - name: Create release package
+      run: |
+        mkdir release
+        copy dist\Comparador_Planilhas.exe release\
+        echo ======================================== > release\COMO_USAR.txt
+        echo   COMPARADOR DE PLANILHAS - v1.0 >> release\COMO_USAR.txt
+        echo ======================================== >> release\COMO_USAR.txt
+        echo. >> release\COMO_USAR.txt
+        echo 1. Duplo clique no Comparador_Planilhas.exe >> release\COMO_USAR.txt
+        echo 2. Selecione a primeira planilha (Excel) >> release\COMO_USAR.txt
+        echo 3. Selecione a segunda planilha (Excel) >> release\COMO_USAR.txt
+        echo 4. Digite o nome da coluna para comparacao >> release\COMO_USAR.txt
+        echo 5. Clique em Processar Planilhas >> release\COMO_USAR.txt
+        echo 6. Aguarde o processamento >> release\COMO_USAR.txt
+        echo 7. Baixe os resultados quando concluido >> release\COMO_USAR.txt
+        echo. >> release\COMO_USAR.txt
+        echo OBSERVACOES: >> release\COMO_USAR.txt
+        echo - As planilhas devem estar no formato Excel (.xlsx ou .xls) >> release\COMO_USAR.txt
+        echo - A coluna informada deve existir em ambas as planilhas >> release\COMO_USAR.txt
+        echo - O sistema usa fuzzy matching com precisao minima de 90%% >> release\COMO_USAR.txt
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: Comparador_Planilhas_Windows
+        path: release/
