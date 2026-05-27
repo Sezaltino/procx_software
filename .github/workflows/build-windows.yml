@@ -30,22 +30,24 @@ jobs:
       run: |
         mkdir release
         copy dist\Comparador_Planilhas.exe release\
-        echo ======================================== > release\COMO_USAR.txt
-        echo   COMPARADOR DE PLANILHAS - v1.0 >> release\COMO_USAR.txt
-        echo ======================================== >> release\COMO_USAR.txt
-        echo. >> release\COMO_USAR.txt
-        echo 1. Duplo clique no Comparador_Planilhas.exe >> release\COMO_USAR.txt
-        echo 2. Selecione a primeira planilha (Excel) >> release\COMO_USAR.txt
-        echo 3. Selecione a segunda planilha (Excel) >> release\COMO_USAR.txt
-        echo 4. Digite o nome da coluna para comparacao >> release\COMO_USAR.txt
-        echo 5. Clique em Processar Planilhas >> release\COMO_USAR.txt
-        echo 6. Aguarde o processamento >> release\COMO_USAR.txt
-        echo 7. Baixe os resultados quando concluido >> release\COMO_USAR.txt
-        echo. >> release\COMO_USAR.txt
-        echo OBSERVACOES: >> release\COMO_USAR.txt
-        echo - As planilhas devem estar no formato Excel (.xlsx ou .xls) >> release\COMO_USAR.txt
-        echo - A coluna informada deve existir em ambas as planilhas >> release\COMO_USAR.txt
-        echo - O sistema usa fuzzy matching com precisao minima de 90%% >> release\COMO_USAR.txt
+        @"
+        ========================================
+          COMPARADOR DE PLANILHAS - v1.0
+        ========================================
+
+        1. Duplo clique no Comparador_Planilhas.exe
+        2. Selecione a primeira planilha (Excel)
+        3. Selecione a segunda planilha (Excel)
+        4. Digite o nome da coluna para comparacao
+        5. Clique em Processar Planilhas
+        6. Aguarde o processamento
+        7. Baixe os resultados quando concluido
+
+        OBSERVACOES:
+        - As planilhas devem estar no formato Excel (.xlsx ou .xls)
+        - A coluna informada deve existir em ambas as planilhas
+        - O sistema usa fuzzy matching com precisao minima de 90%
+        "@ | Out-File -FilePath release\COMO_USAR.txt -Encoding UTF8
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
