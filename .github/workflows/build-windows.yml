@@ -24,7 +24,7 @@ jobs:
 
     - name: Build executable
       run: |
-        pyinstaller --onefile --windowed --name "Comparador_Planilhas" --hidden-import "ttkbootstrap" --hidden-import "pandas" --hidden-import "rapidfuzz" --hidden-import "unidecode" --hidden-import "openpyxl" Main.py
+        pyinstaller --onefile --windowed --name "Comparador_Planilhas" --hidden-import "ttkbootstrap" --hidden-import "pandas" --hidden-import "rapidfuzz" --hidden-import "unidecode" --hidden-import "openpyxl" main.py
 
     - name: Create release package
       run: |
