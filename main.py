@@ -1,7 +1,7 @@
 import pandas as pd
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
-from tkinter import filedialog, messagebox
+from tkinter import filedialog, messagebox, END
 from threading import Thread
 from rapidfuzz import fuzz, process
 import unidecode
@@ -117,7 +117,7 @@ def process_files():
         result_window.title("Resultados")
         result_text = ttk.Text(result_window, wrap="word")
         result_text.pack(expand=True, fill="both", padx=10, pady=10)
-        result_text.insert(ttk.END, result_df.to_string(index=False))
+        result_text.insert(END, result_df.to_string(index=False))
 
         btn_download = ttk.Button(root, text="📥 Baixar Resultados", command=download_results)
         btn_download.pack(pady=10)
